@@ -15,7 +15,7 @@ Load QWUI directly from your GitHub repository:
 
 lua
 local QWUI = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/QWUI.lua"
+    "https://raw.githubusercontent.com/w-qwui/qwui/main/src.lua"
 ))()
 
 
